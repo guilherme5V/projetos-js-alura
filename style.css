@@ -1,0 +1,11 @@
+html, body {
+  margin: 20;
+  padding: 0;
+  background-color: rgb(2,115,115)
+}
+canvas {
+  display: block;
+}
+h2{
+  color: rgb(23,32,38)
+}
